@@ -1,0 +1,9 @@
+C:\Users\Raunak Singhania R$\source\repos\CALCULATOR\CALCULATOR\bin\Debug\CALCULATOR.exe.config
+C:\Users\Raunak Singhania R$\source\repos\CALCULATOR\CALCULATOR\bin\Debug\CALCULATOR.exe
+C:\Users\Raunak Singhania R$\source\repos\CALCULATOR\CALCULATOR\bin\Debug\CALCULATOR.pdb
+C:\Users\Raunak Singhania R$\source\repos\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.csprojAssemblyReference.cache
+C:\Users\Raunak Singhania R$\source\repos\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.Calculator.resources
+C:\Users\Raunak Singhania R$\source\repos\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.Properties.Resources.resources
+C:\Users\Raunak Singhania R$\source\repos\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.csproj.GenerateResource.cache
+C:\Users\Raunak Singhania R$\source\repos\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.exe
+C:\Users\Raunak Singhania R$\source\repos\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.pdb
