@@ -1,0 +1,14 @@
+C:\Users\Muhil\Desktop\PJP\ado\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.exe.config
+C:\Users\Muhil\Desktop\PJP\ado\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.exe
+C:\Users\Muhil\Desktop\PJP\ado\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.pdb
+C:\Users\Muhil\Desktop\PJP\ado\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.Form1.resources
+C:\Users\Muhil\Desktop\PJP\ado\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.Properties.Resources.resources
+C:\Users\Muhil\Desktop\PJP\ado\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.GenerateResource.cache
+C:\Users\Muhil\Desktop\PJP\ado\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\Users\Muhil\Desktop\PJP\ado\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.exe
+C:\Users\Muhil\Desktop\PJP\ado\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.pdb
+C:\Users\Muhil\Desktop\PJP\ado\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.UserControl1.resources
+C:\Users\Muhil\Desktop\PJP\ado\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.UserControl2.resources
+C:\Users\Muhil\Desktop\PJP\ado\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.UserControl3.resources
+C:\Users\Muhil\Desktop\PJP\ado\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.UserControl4.resources
+C:\Users\Muhil\Desktop\PJP\ado\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csprojAssemblyReference.cache

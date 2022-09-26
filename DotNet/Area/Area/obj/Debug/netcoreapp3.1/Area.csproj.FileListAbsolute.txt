@@ -1,0 +1,11 @@
+C:\Users\Muhil\Desktop\PJP\3\Area\Area\obj\Debug\netcoreapp3.1\Area.csprojAssemblyReference.cache
+C:\Users\Muhil\Desktop\PJP\3\Area\Area\obj\Debug\netcoreapp3.1\Area.AssemblyInfoInputs.cache
+C:\Users\Muhil\Desktop\PJP\3\Area\Area\obj\Debug\netcoreapp3.1\Area.AssemblyInfo.cs
+C:\Users\Muhil\Desktop\PJP\3\Area\Area\bin\Debug\netcoreapp3.1\Area.exe
+C:\Users\Muhil\Desktop\PJP\3\Area\Area\bin\Debug\netcoreapp3.1\Area.deps.json
+C:\Users\Muhil\Desktop\PJP\3\Area\Area\bin\Debug\netcoreapp3.1\Area.runtimeconfig.json
+C:\Users\Muhil\Desktop\PJP\3\Area\Area\bin\Debug\netcoreapp3.1\Area.runtimeconfig.dev.json
+C:\Users\Muhil\Desktop\PJP\3\Area\Area\bin\Debug\netcoreapp3.1\Area.dll
+C:\Users\Muhil\Desktop\PJP\3\Area\Area\bin\Debug\netcoreapp3.1\Area.pdb
+C:\Users\Muhil\Desktop\PJP\3\Area\Area\obj\Debug\netcoreapp3.1\Area.dll
+C:\Users\Muhil\Desktop\PJP\3\Area\Area\obj\Debug\netcoreapp3.1\Area.pdb

@@ -1,0 +1,10 @@
+C:\Users\Muhil\Desktop\PJP\ado\Northwind\Northwind\bin\Debug\Northwind.exe.config
+C:\Users\Muhil\Desktop\PJP\ado\Northwind\Northwind\bin\Debug\Northwind.exe
+C:\Users\Muhil\Desktop\PJP\ado\Northwind\Northwind\bin\Debug\Northwind.pdb
+C:\Users\Muhil\Desktop\PJP\ado\Northwind\Northwind\obj\Debug\Northwind.csprojAssemblyReference.cache
+C:\Users\Muhil\Desktop\PJP\ado\Northwind\Northwind\obj\Debug\Northwind.Form1.resources
+C:\Users\Muhil\Desktop\PJP\ado\Northwind\Northwind\obj\Debug\Northwind.Properties.Resources.resources
+C:\Users\Muhil\Desktop\PJP\ado\Northwind\Northwind\obj\Debug\Northwind.csproj.GenerateResource.cache
+C:\Users\Muhil\Desktop\PJP\ado\Northwind\Northwind\obj\Debug\Northwind.csproj.CoreCompileInputs.cache
+C:\Users\Muhil\Desktop\PJP\ado\Northwind\Northwind\obj\Debug\Northwind.exe
+C:\Users\Muhil\Desktop\PJP\ado\Northwind\Northwind\obj\Debug\Northwind.pdb
