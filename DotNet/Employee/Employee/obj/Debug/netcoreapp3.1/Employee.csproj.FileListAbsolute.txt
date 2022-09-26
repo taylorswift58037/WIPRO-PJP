@@ -1,0 +1,11 @@
+C:\Users\Muhil\Desktop\PJP\3\Employee\Employee\bin\Debug\netcoreapp3.1\Employee.exe
+C:\Users\Muhil\Desktop\PJP\3\Employee\Employee\bin\Debug\netcoreapp3.1\Employee.deps.json
+C:\Users\Muhil\Desktop\PJP\3\Employee\Employee\bin\Debug\netcoreapp3.1\Employee.runtimeconfig.json
+C:\Users\Muhil\Desktop\PJP\3\Employee\Employee\bin\Debug\netcoreapp3.1\Employee.runtimeconfig.dev.json
+C:\Users\Muhil\Desktop\PJP\3\Employee\Employee\bin\Debug\netcoreapp3.1\Employee.dll
+C:\Users\Muhil\Desktop\PJP\3\Employee\Employee\bin\Debug\netcoreapp3.1\Employee.pdb
+C:\Users\Muhil\Desktop\PJP\3\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.csprojAssemblyReference.cache
+C:\Users\Muhil\Desktop\PJP\3\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.AssemblyInfoInputs.cache
+C:\Users\Muhil\Desktop\PJP\3\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.AssemblyInfo.cs
+C:\Users\Muhil\Desktop\PJP\3\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.dll
+C:\Users\Muhil\Desktop\PJP\3\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.pdb
