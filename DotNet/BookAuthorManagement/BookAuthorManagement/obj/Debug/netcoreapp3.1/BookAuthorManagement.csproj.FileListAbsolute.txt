@@ -1,0 +1,11 @@
+C:\Users\Muhil\Desktop\PJP\2\BookAuthorManagement\BookAuthorManagement\bin\Debug\netcoreapp3.1\BookAuthorManagement.exe
+C:\Users\Muhil\Desktop\PJP\2\BookAuthorManagement\BookAuthorManagement\bin\Debug\netcoreapp3.1\BookAuthorManagement.deps.json
+C:\Users\Muhil\Desktop\PJP\2\BookAuthorManagement\BookAuthorManagement\bin\Debug\netcoreapp3.1\BookAuthorManagement.runtimeconfig.json
+C:\Users\Muhil\Desktop\PJP\2\BookAuthorManagement\BookAuthorManagement\bin\Debug\netcoreapp3.1\BookAuthorManagement.runtimeconfig.dev.json
+C:\Users\Muhil\Desktop\PJP\2\BookAuthorManagement\BookAuthorManagement\bin\Debug\netcoreapp3.1\BookAuthorManagement.dll
+C:\Users\Muhil\Desktop\PJP\2\BookAuthorManagement\BookAuthorManagement\bin\Debug\netcoreapp3.1\BookAuthorManagement.pdb
+C:\Users\Muhil\Desktop\PJP\2\BookAuthorManagement\BookAuthorManagement\obj\Debug\netcoreapp3.1\BookAuthorManagement.csprojAssemblyReference.cache
+C:\Users\Muhil\Desktop\PJP\2\BookAuthorManagement\BookAuthorManagement\obj\Debug\netcoreapp3.1\BookAuthorManagement.AssemblyInfoInputs.cache
+C:\Users\Muhil\Desktop\PJP\2\BookAuthorManagement\BookAuthorManagement\obj\Debug\netcoreapp3.1\BookAuthorManagement.AssemblyInfo.cs
+C:\Users\Muhil\Desktop\PJP\2\BookAuthorManagement\BookAuthorManagement\obj\Debug\netcoreapp3.1\BookAuthorManagement.dll
+C:\Users\Muhil\Desktop\PJP\2\BookAuthorManagement\BookAuthorManagement\obj\Debug\netcoreapp3.1\BookAuthorManagement.pdb
