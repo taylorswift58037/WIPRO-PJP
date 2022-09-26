@@ -1,0 +1,10 @@
+C:\Users\Muhil\source\repos\STOCK\STOCK\bin\Debug\netcoreapp3.1\STOCK.exe
+C:\Users\Muhil\source\repos\STOCK\STOCK\bin\Debug\netcoreapp3.1\STOCK.deps.json
+C:\Users\Muhil\source\repos\STOCK\STOCK\bin\Debug\netcoreapp3.1\STOCK.runtimeconfig.json
+C:\Users\Muhil\source\repos\STOCK\STOCK\bin\Debug\netcoreapp3.1\STOCK.runtimeconfig.dev.json
+C:\Users\Muhil\source\repos\STOCK\STOCK\bin\Debug\netcoreapp3.1\STOCK.dll
+C:\Users\Muhil\source\repos\STOCK\STOCK\bin\Debug\netcoreapp3.1\STOCK.pdb
+C:\Users\Muhil\source\repos\STOCK\STOCK\obj\Debug\netcoreapp3.1\STOCK.AssemblyInfoInputs.cache
+C:\Users\Muhil\source\repos\STOCK\STOCK\obj\Debug\netcoreapp3.1\STOCK.AssemblyInfo.cs
+C:\Users\Muhil\source\repos\STOCK\STOCK\obj\Debug\netcoreapp3.1\STOCK.dll
+C:\Users\Muhil\source\repos\STOCK\STOCK\obj\Debug\netcoreapp3.1\STOCK.pdb
