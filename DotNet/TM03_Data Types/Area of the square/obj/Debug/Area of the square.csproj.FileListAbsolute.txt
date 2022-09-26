@@ -1,0 +1,5 @@
+C:\Users\Muhil\Desktop\PJP\Area of the square\bin\Debug\Area of the square.exe
+C:\Users\Muhil\Desktop\PJP\Area of the square\bin\Debug\Area of the square.pdb
+C:\Users\Muhil\Desktop\PJP\Area of the square\obj\Debug\Area of the square.csprojAssemblyReference.cache
+C:\Users\Muhil\Desktop\PJP\Area of the square\obj\Debug\Area of the square.exe
+C:\Users\Muhil\Desktop\PJP\Area of the square\obj\Debug\Area of the square.pdb

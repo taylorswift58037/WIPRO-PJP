@@ -1,0 +1,5 @@
+C:\Users\Muhil\Desktop\PJP\Toggle Cases\obj\Debug\Toggle Cases.csprojAssemblyReference.cache
+C:\Users\Muhil\Desktop\PJP\Toggle Cases\bin\Debug\Toggle Cases.exe
+C:\Users\Muhil\Desktop\PJP\Toggle Cases\bin\Debug\Toggle Cases.pdb
+C:\Users\Muhil\Desktop\PJP\Toggle Cases\obj\Debug\Toggle Cases.exe
+C:\Users\Muhil\Desktop\PJP\Toggle Cases\obj\Debug\Toggle Cases.pdb

@@ -1,0 +1,5 @@
+C:\Users\Muhil\Desktop\PJP\Number swap\obj\Debug\Number swap.csprojAssemblyReference.cache
+C:\Users\Muhil\Desktop\PJP\Number swap\bin\Debug\Number swap.exe
+C:\Users\Muhil\Desktop\PJP\Number swap\bin\Debug\Number swap.pdb
+C:\Users\Muhil\Desktop\PJP\Number swap\obj\Debug\Number swap.exe
+C:\Users\Muhil\Desktop\PJP\Number swap\obj\Debug\Number swap.pdb

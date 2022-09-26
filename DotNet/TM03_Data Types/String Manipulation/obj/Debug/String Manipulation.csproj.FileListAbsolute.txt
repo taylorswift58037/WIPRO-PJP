@@ -1,0 +1,5 @@
+C:\Users\Muhil\Desktop\PJP\String Manipulation\obj\Debug\String Manipulation.csprojAssemblyReference.cache
+C:\Users\Muhil\Desktop\PJP\String Manipulation\bin\Debug\String Manipulation.exe
+C:\Users\Muhil\Desktop\PJP\String Manipulation\bin\Debug\String Manipulation.pdb
+C:\Users\Muhil\Desktop\PJP\String Manipulation\obj\Debug\String Manipulation.exe
+C:\Users\Muhil\Desktop\PJP\String Manipulation\obj\Debug\String Manipulation.pdb
