@@ -1,0 +1,11 @@
+C:\Users\Muhil\Desktop\PJP\3\Duck\Duck\bin\Debug\netcoreapp3.1\Duck.exe
+C:\Users\Muhil\Desktop\PJP\3\Duck\Duck\bin\Debug\netcoreapp3.1\Duck.deps.json
+C:\Users\Muhil\Desktop\PJP\3\Duck\Duck\bin\Debug\netcoreapp3.1\Duck.runtimeconfig.json
+C:\Users\Muhil\Desktop\PJP\3\Duck\Duck\bin\Debug\netcoreapp3.1\Duck.runtimeconfig.dev.json
+C:\Users\Muhil\Desktop\PJP\3\Duck\Duck\bin\Debug\netcoreapp3.1\Duck.dll
+C:\Users\Muhil\Desktop\PJP\3\Duck\Duck\bin\Debug\netcoreapp3.1\Duck.pdb
+C:\Users\Muhil\Desktop\PJP\3\Duck\Duck\obj\Debug\netcoreapp3.1\Duck.csprojAssemblyReference.cache
+C:\Users\Muhil\Desktop\PJP\3\Duck\Duck\obj\Debug\netcoreapp3.1\Duck.AssemblyInfoInputs.cache
+C:\Users\Muhil\Desktop\PJP\3\Duck\Duck\obj\Debug\netcoreapp3.1\Duck.AssemblyInfo.cs
+C:\Users\Muhil\Desktop\PJP\3\Duck\Duck\obj\Debug\netcoreapp3.1\Duck.dll
+C:\Users\Muhil\Desktop\PJP\3\Duck\Duck\obj\Debug\netcoreapp3.1\Duck.pdb
