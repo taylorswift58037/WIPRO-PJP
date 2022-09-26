@@ -1,0 +1,5 @@
+C:\Users\Muhil\Desktop\PJP\Number of occurrence\obj\Debug\Number of occurrence.csprojAssemblyReference.cache
+C:\Users\Muhil\Desktop\PJP\Number of occurrence\bin\Debug\Number of occurrence.exe
+C:\Users\Muhil\Desktop\PJP\Number of occurrence\bin\Debug\Number of occurrence.pdb
+C:\Users\Muhil\Desktop\PJP\Number of occurrence\obj\Debug\Number of occurrence.exe
+C:\Users\Muhil\Desktop\PJP\Number of occurrence\obj\Debug\Number of occurrence.pdb

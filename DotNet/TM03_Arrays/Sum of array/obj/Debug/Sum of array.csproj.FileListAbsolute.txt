@@ -1,0 +1,4 @@
+C:\Users\Muhil\Desktop\PJP\Sum of array\bin\Debug\Sum of array.exe
+C:\Users\Muhil\Desktop\PJP\Sum of array\bin\Debug\Sum of array.pdb
+C:\Users\Muhil\Desktop\PJP\Sum of array\obj\Debug\Sum of array.exe
+C:\Users\Muhil\Desktop\PJP\Sum of array\obj\Debug\Sum of array.pdb
