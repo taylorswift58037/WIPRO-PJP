@@ -1,0 +1,9 @@
+C:\Users\Raunak Singhania R$\source\repos\gameapp\gameapp\bin\Debug\gameapp.exe.config
+C:\Users\Raunak Singhania R$\source\repos\gameapp\gameapp\bin\Debug\gameapp.exe
+C:\Users\Raunak Singhania R$\source\repos\gameapp\gameapp\bin\Debug\gameapp.pdb
+C:\Users\Raunak Singhania R$\source\repos\gameapp\gameapp\obj\Debug\gameapp.csprojAssemblyReference.cache
+C:\Users\Raunak Singhania R$\source\repos\gameapp\gameapp\obj\Debug\gameapp.Form1.resources
+C:\Users\Raunak Singhania R$\source\repos\gameapp\gameapp\obj\Debug\gameapp.Properties.Resources.resources
+C:\Users\Raunak Singhania R$\source\repos\gameapp\gameapp\obj\Debug\gameapp.csproj.GenerateResource.cache
+C:\Users\Raunak Singhania R$\source\repos\gameapp\gameapp\obj\Debug\gameapp.exe
+C:\Users\Raunak Singhania R$\source\repos\gameapp\gameapp\obj\Debug\gameapp.pdb

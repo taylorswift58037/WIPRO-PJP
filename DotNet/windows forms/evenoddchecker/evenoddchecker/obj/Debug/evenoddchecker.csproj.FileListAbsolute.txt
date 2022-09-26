@@ -1,0 +1,9 @@
+C:\Users\Raunak Singhania R$\source\repos\evenoddchecker\evenoddchecker\bin\Debug\evenoddchecker.exe.config
+C:\Users\Raunak Singhania R$\source\repos\evenoddchecker\evenoddchecker\bin\Debug\evenoddchecker.exe
+C:\Users\Raunak Singhania R$\source\repos\evenoddchecker\evenoddchecker\bin\Debug\evenoddchecker.pdb
+C:\Users\Raunak Singhania R$\source\repos\evenoddchecker\evenoddchecker\obj\Debug\evenoddchecker.csprojAssemblyReference.cache
+C:\Users\Raunak Singhania R$\source\repos\evenoddchecker\evenoddchecker\obj\Debug\evenoddchecker.Form1.resources
+C:\Users\Raunak Singhania R$\source\repos\evenoddchecker\evenoddchecker\obj\Debug\evenoddchecker.Properties.Resources.resources
+C:\Users\Raunak Singhania R$\source\repos\evenoddchecker\evenoddchecker\obj\Debug\evenoddchecker.csproj.GenerateResource.cache
+C:\Users\Raunak Singhania R$\source\repos\evenoddchecker\evenoddchecker\obj\Debug\evenoddchecker.exe
+C:\Users\Raunak Singhania R$\source\repos\evenoddchecker\evenoddchecker\obj\Debug\evenoddchecker.pdb
