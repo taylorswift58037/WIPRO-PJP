@@ -1,0 +1,9 @@
+C:\Users\Raunak Singhania R$\source\repos\filebrowser\filebrowser\bin\Debug\filebrowser.exe.config
+C:\Users\Raunak Singhania R$\source\repos\filebrowser\filebrowser\bin\Debug\filebrowser.exe
+C:\Users\Raunak Singhania R$\source\repos\filebrowser\filebrowser\bin\Debug\filebrowser.pdb
+C:\Users\Raunak Singhania R$\source\repos\filebrowser\filebrowser\obj\Debug\filebrowser.csprojAssemblyReference.cache
+C:\Users\Raunak Singhania R$\source\repos\filebrowser\filebrowser\obj\Debug\filebrowser.Form1.resources
+C:\Users\Raunak Singhania R$\source\repos\filebrowser\filebrowser\obj\Debug\filebrowser.Properties.Resources.resources
+C:\Users\Raunak Singhania R$\source\repos\filebrowser\filebrowser\obj\Debug\filebrowser.csproj.GenerateResource.cache
+C:\Users\Raunak Singhania R$\source\repos\filebrowser\filebrowser\obj\Debug\filebrowser.exe
+C:\Users\Raunak Singhania R$\source\repos\filebrowser\filebrowser\obj\Debug\filebrowser.pdb
