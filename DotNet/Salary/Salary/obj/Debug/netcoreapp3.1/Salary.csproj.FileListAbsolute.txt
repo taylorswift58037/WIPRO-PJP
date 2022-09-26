@@ -1,0 +1,16 @@
+C:\Users\Muhil\source\repos\Salary\Salary\bin\Debug\netcoreapp3.1\Salary.exe
+C:\Users\Muhil\source\repos\Salary\Salary\bin\Debug\netcoreapp3.1\Salary.deps.json
+C:\Users\Muhil\source\repos\Salary\Salary\bin\Debug\netcoreapp3.1\Salary.runtimeconfig.json
+C:\Users\Muhil\source\repos\Salary\Salary\bin\Debug\netcoreapp3.1\Salary.runtimeconfig.dev.json
+C:\Users\Muhil\source\repos\Salary\Salary\bin\Debug\netcoreapp3.1\Salary.dll
+C:\Users\Muhil\source\repos\Salary\Salary\bin\Debug\netcoreapp3.1\Salary.pdb
+C:\Users\Muhil\source\repos\Salary\Salary\obj\Debug\netcoreapp3.1\Salary.csprojAssemblyReference.cache
+C:\Users\Muhil\source\repos\Salary\Salary\obj\Debug\netcoreapp3.1\Salary.AssemblyInfoInputs.cache
+C:\Users\Muhil\source\repos\Salary\Salary\obj\Debug\netcoreapp3.1\Salary.AssemblyInfo.cs
+C:\Users\Muhil\source\repos\Salary\Salary\obj\Debug\netcoreapp3.1\Salary.dll
+C:\Users\Muhil\source\repos\Salary\Salary\obj\Debug\netcoreapp3.1\Salary.pdb
+C:\Users\Muhil\Desktop\PJP\Salary\Salary\obj\Debug\netcoreapp3.1\Salary.csprojAssemblyReference.cache
+C:\Users\Muhil\Desktop\PJP\Salary\Salary\obj\Debug\netcoreapp3.1\Salary.AssemblyInfoInputs.cache
+C:\Users\Muhil\Desktop\PJP\Salary\Salary\obj\Debug\netcoreapp3.1\Salary.AssemblyInfo.cs
+C:\Users\Muhil\Desktop\PJP\Salary\Salary\obj\Debug\netcoreapp3.1\Salary.dll
+C:\Users\Muhil\Desktop\PJP\Salary\Salary\obj\Debug\netcoreapp3.1\Salary.pdb

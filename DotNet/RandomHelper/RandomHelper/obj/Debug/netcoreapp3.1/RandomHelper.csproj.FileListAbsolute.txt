@@ -1,0 +1,11 @@
+C:\Users\Muhil\Desktop\PJP\2\RandomHelper\RandomHelper\obj\Debug\netcoreapp3.1\RandomHelper.csprojAssemblyReference.cache
+C:\Users\Muhil\Desktop\PJP\2\RandomHelper\RandomHelper\obj\Debug\netcoreapp3.1\RandomHelper.AssemblyInfoInputs.cache
+C:\Users\Muhil\Desktop\PJP\2\RandomHelper\RandomHelper\obj\Debug\netcoreapp3.1\RandomHelper.AssemblyInfo.cs
+C:\Users\Muhil\Desktop\PJP\2\RandomHelper\RandomHelper\bin\Debug\netcoreapp3.1\RandomHelper.exe
+C:\Users\Muhil\Desktop\PJP\2\RandomHelper\RandomHelper\bin\Debug\netcoreapp3.1\RandomHelper.deps.json
+C:\Users\Muhil\Desktop\PJP\2\RandomHelper\RandomHelper\bin\Debug\netcoreapp3.1\RandomHelper.runtimeconfig.json
+C:\Users\Muhil\Desktop\PJP\2\RandomHelper\RandomHelper\bin\Debug\netcoreapp3.1\RandomHelper.runtimeconfig.dev.json
+C:\Users\Muhil\Desktop\PJP\2\RandomHelper\RandomHelper\bin\Debug\netcoreapp3.1\RandomHelper.dll
+C:\Users\Muhil\Desktop\PJP\2\RandomHelper\RandomHelper\bin\Debug\netcoreapp3.1\RandomHelper.pdb
+C:\Users\Muhil\Desktop\PJP\2\RandomHelper\RandomHelper\obj\Debug\netcoreapp3.1\RandomHelper.dll
+C:\Users\Muhil\Desktop\PJP\2\RandomHelper\RandomHelper\obj\Debug\netcoreapp3.1\RandomHelper.pdb
