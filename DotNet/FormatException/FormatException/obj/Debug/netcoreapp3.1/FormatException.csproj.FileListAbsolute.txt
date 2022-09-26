@@ -1,0 +1,11 @@
+C:\Users\Muhil\Desktop\PJP\3\FormatException\FormatException\obj\Debug\netcoreapp3.1\FormatException.csprojAssemblyReference.cache
+C:\Users\Muhil\Desktop\PJP\3\FormatException\FormatException\obj\Debug\netcoreapp3.1\FormatException.AssemblyInfoInputs.cache
+C:\Users\Muhil\Desktop\PJP\3\FormatException\FormatException\obj\Debug\netcoreapp3.1\FormatException.AssemblyInfo.cs
+C:\Users\Muhil\Desktop\PJP\3\FormatException\FormatException\bin\Debug\netcoreapp3.1\FormatException.exe
+C:\Users\Muhil\Desktop\PJP\3\FormatException\FormatException\bin\Debug\netcoreapp3.1\FormatException.deps.json
+C:\Users\Muhil\Desktop\PJP\3\FormatException\FormatException\bin\Debug\netcoreapp3.1\FormatException.runtimeconfig.json
+C:\Users\Muhil\Desktop\PJP\3\FormatException\FormatException\bin\Debug\netcoreapp3.1\FormatException.runtimeconfig.dev.json
+C:\Users\Muhil\Desktop\PJP\3\FormatException\FormatException\bin\Debug\netcoreapp3.1\FormatException.dll
+C:\Users\Muhil\Desktop\PJP\3\FormatException\FormatException\bin\Debug\netcoreapp3.1\FormatException.pdb
+C:\Users\Muhil\Desktop\PJP\3\FormatException\FormatException\obj\Debug\netcoreapp3.1\FormatException.dll
+C:\Users\Muhil\Desktop\PJP\3\FormatException\FormatException\obj\Debug\netcoreapp3.1\FormatException.pdb

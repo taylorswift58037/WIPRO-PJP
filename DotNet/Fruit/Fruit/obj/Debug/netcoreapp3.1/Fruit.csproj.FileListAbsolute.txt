@@ -1,0 +1,11 @@
+C:\Users\Muhil\Desktop\PJP\3\Fruit\Fruit\obj\Debug\netcoreapp3.1\Fruit.csprojAssemblyReference.cache
+C:\Users\Muhil\Desktop\PJP\3\Fruit\Fruit\obj\Debug\netcoreapp3.1\Fruit.AssemblyInfoInputs.cache
+C:\Users\Muhil\Desktop\PJP\3\Fruit\Fruit\obj\Debug\netcoreapp3.1\Fruit.AssemblyInfo.cs
+C:\Users\Muhil\Desktop\PJP\3\Fruit\Fruit\bin\Debug\netcoreapp3.1\Fruit.exe
+C:\Users\Muhil\Desktop\PJP\3\Fruit\Fruit\bin\Debug\netcoreapp3.1\Fruit.deps.json
+C:\Users\Muhil\Desktop\PJP\3\Fruit\Fruit\bin\Debug\netcoreapp3.1\Fruit.runtimeconfig.json
+C:\Users\Muhil\Desktop\PJP\3\Fruit\Fruit\bin\Debug\netcoreapp3.1\Fruit.runtimeconfig.dev.json
+C:\Users\Muhil\Desktop\PJP\3\Fruit\Fruit\bin\Debug\netcoreapp3.1\Fruit.dll
+C:\Users\Muhil\Desktop\PJP\3\Fruit\Fruit\bin\Debug\netcoreapp3.1\Fruit.pdb
+C:\Users\Muhil\Desktop\PJP\3\Fruit\Fruit\obj\Debug\netcoreapp3.1\Fruit.dll
+C:\Users\Muhil\Desktop\PJP\3\Fruit\Fruit\obj\Debug\netcoreapp3.1\Fruit.pdb
